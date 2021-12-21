@@ -7,7 +7,6 @@ for (i = 1; i <= 10; i++)
     {
         int ji = j * i;
         Console.Write($"|{j} x {i} = {ji}\t");
-        
     }
 Console.WriteLine();
 }
